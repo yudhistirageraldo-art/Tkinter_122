@@ -31,7 +31,7 @@ mapel = [
     "Biologi",
     "Ekonomi",
     "Sejarah",
-    "Geografi"
+    "Sejarah Indonesia",
 ]
 
 entries = []
